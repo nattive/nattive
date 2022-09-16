@@ -1,7 +1,9 @@
-Hola amigo! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sofolahan Eniola Ademola
+Hola amigo! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+Welcome to Nattive Code repository. 
 ================================================================================================================================================
 
-Software engineer and a lover of design
+I'm Sofolahan Eniola Ademola. You can call me Nathaniel. 😂. A Software engineer and a lover of design
 ---------------------------------------
 
 I'm a Full stack developer, Highly skilled in React JavaScript, React native, PHP and Laravel PHP, crappy Java, and a Flutter and Nodejs newbie.
