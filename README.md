@@ -6,10 +6,10 @@ Software engineer and a lover of design
 
 I'm a Full stack developer, Highly skilled in React JavaScript, React native, PHP and Laravel PHP, crappy Java, and a Flutter and Nodejs newbie.
 
-* 🌍  I'm based in Lagos
-* ✉️  You can contact me at [nattive@yahoo.com](mailto:nattive@yahoo.com)
-* 🧠  I'm learning Nodejs
-* 🤝  I'm open to collaborating on Javascript Open source projects
+* 🌍  I'm based in Lagos, Nigeria.
+* ✉️  You can contact me at [nattive@yahoo.com](mailto:nattive@yahoo.com)
+* 🧠  learning Nodejs, But kick-ass at Laravel/PHP
+* 🤝  I'm open to collaborating on Javascript Open source projects
 * ⚡  CODEine addict
 
 <a href="https://www.twitter.com/nattivelab" target="_blank" rel="noreferrer"><img
