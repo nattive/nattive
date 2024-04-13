@@ -3,7 +3,7 @@
 Welcome to Nattive Code repository. 
 ================================================================================================================================================
 
-I'm Sofolahan Eniola Ademola. You can call me Nathaniel. 😂. A Software engineer and a lover of design
+I'm Sofolahan Eniola Ademola. popularly called Nathaniel, or Nattive (NATive creaTIVE, you get it 😂) . A Software engineer and a lover of design.
 ---------------------------------------
 
 I'm a Full stack developer, Highly skilled in React JavaScript, React native, PHP and Laravel PHP, crappy Java, and a Flutter and Nodejs newbie.
