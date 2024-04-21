@@ -56,4 +56,8 @@ src="https://img.shields.io/twitter/follow/nattivelab?logo=twitter&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nattive"><img src="https://github-readme-stats.vercel.app/api?username=nattive&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nattive's GitHub stats" /></a>
+![](https://raw.githubusercontent.com/nattive/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nattive/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/nattive/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/nattive/github-stats/master/generated/languages.svg#gh-light-mode-only)
