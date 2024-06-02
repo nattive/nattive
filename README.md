@@ -25,12 +25,7 @@ In summary,
 - 🌍 Currently, I'm based in Lagos, Nigeria.
   
 - ⚡  CODEine addict
-  
-![](https://raw.githubusercontent.com/nattive/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nattive/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/nattive/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nattive/github-stats/master/generated/languages.svg#gh-light-mode-only)
+ 
 
 <p align="left"> <a href="https://twitter.com/@nattivelab" target="blank"><img src="https://img.shields.io/twitter/follow/@nattivelab?logo=twitter&style=for-the-badge" alt="@nattivelab" /></a> </p>
 
